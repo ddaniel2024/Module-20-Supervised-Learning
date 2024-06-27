@@ -20,8 +20,8 @@ A confusion matrix was generated with this testing data, as well as a classifica
 ## Results
 
 * Machine Learning Model 1:
-  * The precision for healthy loans is 1.00.
-    * The model identified 18759 of the test data loans as healthy. Of these 18759, 18679 are actually healthy. This indicates that virtually all the healthy loans predicted by the model are actually healthy.
+ * The precision for healthy loans is 1.00.
+  * The model identified 18759 of the test data loans as healthy. Of these 18759, 18679 are actually healthy. This indicates that virtually all the healthy loans predicted by the model are actually healthy.
   * The recall for healthy loans is 1.00
    * The model only misidentified 67 of the test data healthy loans as being high-risk. i.e there are actually 18746 healthy loans, and the model was able to classify 18679 of these as healthy.
   * The precision for high-risk loans is 0.87
