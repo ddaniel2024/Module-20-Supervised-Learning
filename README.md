@@ -20,10 +20,10 @@ A confusion matrix was generated with this testing data, as well as a classifica
 ## Results
 
 * Machine Learning Model 1:
-        * The precision for healthy loans is 1.00.
-            * The model identified 18759 of the test data loans as healthy. Of these 18759, 18679 are actually healthy. This indicates that virtually all the healthy loans predicted by the model are actually healthy.
-        * The recall for healthy loans is 1.00
-            * The model only misidentified 67 of the test data healthy loans as being high-risk. i.e there are actually 18746 healthy loans, and the model was able to classify 18679 of these as healthy.
+  * The precision for healthy loans is 1.00.
+    * The model identified 18759 of the test data loans as healthy. Of these 18759, 18679 are actually healthy. This indicates that virtually all the healthy loans predicted by the model are actually healthy.
+ * The recall for healthy loans is 1.00
+  * The model only misidentified 67 of the test data healthy loans as being high-risk. i.e there are actually 18746 healthy loans, and the model was able to classify 18679 of these as healthy.
         * The precision for high-risk loans is 0.87
             * 87% of test data loans identified as high-risk are actually high-risk 
         * The recall for high-risk loans is 0.89
@@ -34,4 +34,4 @@ A confusion matrix was generated with this testing data, as well as a classifica
 In conclusion, this model would be a good choice to use when investigating credit-worthiness of borrowers, as it is able to identify healthy loans almost 100% of the time. Even though it is not as good as identifying high-risk borrowers, it is still fairly capable, as the f1-score for high-risk borrowers is close to 90%.
 
 Sources and help:
-(Confusion Matrix)[https://www.datacamp.com/tutorial/what-is-a-confusion-matrix-in-machine-learning?dc_referrer=https%3A%2F%2Fwww.google.com%2F]
+[Confusion Matrix)](https://www.datacamp.com/tutorial/what-is-a-confusion-matrix-in-machine-learning?dc_referrer=https%3A%2F%2Fwww.google.com%2F)
