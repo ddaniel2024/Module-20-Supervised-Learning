@@ -34,4 +34,5 @@ A confusion matrix was generated with this testing data, as well as a classifica
 In conclusion, this model would be a good choice to use when investigating credit-worthiness of borrowers, as it is able to identify healthy loans almost 100% of the time. Even though it is not as good as identifying high-risk borrowers, it is still fairly capable, as the f1-score for high-risk borrowers is close to 90%.
 
 Sources and help:
-[Confusion Matrix)](https://www.datacamp.com/tutorial/what-is-a-confusion-matrix-in-machine-learning?dc_referrer=https%3A%2F%2Fwww.google.com%2F)
+
+[Confusion Matrix](https://www.datacamp.com/tutorial/what-is-a-confusion-matrix-in-machine-learning?dc_referrer=https%3A%2F%2Fwww.google.com%2F)
